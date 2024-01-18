@@ -25,3 +25,5 @@ out/
 .idea/
 # CLion build directories
 cmake-build-*/
+
+Help/guide/tutorial/*_build/
